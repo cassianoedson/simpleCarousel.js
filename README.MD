@@ -19,7 +19,7 @@ It was inspired by my frustation of not finding simple carousels that were begin
 
 <br/> // - - - About the Carousel - - - //
 
-It was made in way that you could change all the css and html (except the carousel structure and it's attributes) so you can customize in your on way and you wont be blocked in pre molded designs.
+It was made in a way that you could change all the css and html (except the carousel structure and it's attributes) so you can customize in your on way and you wont be blocked in pre molded designs.
 
 
 <br/> // - - - How It Looks - - - //
