@@ -1,7 +1,7 @@
 # theCarousel.js
 A simple and very useful carousel of itens made by pure javascript.
 
-https://github.com/cassianoedson/theCarousel.js/blob/main/img-carousel.PNG
+![Image of theCarousel](https://github.com/cassianoedson/theCarousel.js/blob/main/img-carousel.PNG)
 
 // - - - Features - - - //
 
