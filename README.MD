@@ -24,4 +24,4 @@ It was made in a way that you could change all the css and html (except the caro
 
 <br/> // - - - How It Looks - - - //
 
-![Image of theCarousel](https://github.com/cassianoedson/theCarousel.js/blob/main/Carousel/img/img-carousel.PNG)
+![Image of theCarousel](https://github.com/cassianoedson/simpleCarousel.js/blob/main/Carousel/img/img-carousel.PNG)
