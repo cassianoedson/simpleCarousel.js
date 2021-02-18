@@ -5,9 +5,9 @@ A simple and very useful carousel of itens made by pure javascript.
 
 theCarousel.js has two javascript modules: "autoCarousel.js" and "manualCarousel.js". 
 - autoCarousel.js:
-The first script makes the carousel "spin", in other words, it changes the current itens that are beeing displayed. 
+<br/> The first script makes the carousel "spin", in other words, it changes the current itens that are beeing displayed. 
 - manualCarousel.js:
-The other script is about the "manual" part of the code, it is responsible for the buttons that also change the current display but obviously, they do it manually.
+<br/> The other script is about the "manual" part of the code, it is responsible for the buttons that also change the current display but obviously, they do it manually.
 
 
 // - - - About the Idea - - - //
