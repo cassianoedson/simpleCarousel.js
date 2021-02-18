@@ -1,0 +1,106 @@
+/* hide or show the slides */
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: inline-block;
+}
+
+
+/* * * General * * */
+
+header {
+    text-align: center;
+    background-color: rgb(87, 82, 82);
+    height: 15vh;
+    color: rgb(235, 74, 154);
+}
+
+main {
+    text-align: center;
+    background-color: rgb(56, 53, 53);
+    height: 85vh;
+    color: rgb(235, 74, 154);
+    padding: 2em 0 0 0;
+}
+
+h1 {
+    font-size: 3em;
+    padding: 0 0 0.2em 0;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+
+/* * * Header * * */
+
+.h2-header {
+    font-size: 1.5em;
+}
+
+.header-container {
+    padding: 2.5em 0;
+}
+
+
+/* * * Main * * */
+
+.carousel-prod {
+    background-color: rgb(139, 133, 133);
+    display: inline-block;
+    width: 16em;
+    height: 22em;
+    border-radius: 10px;
+    border: whitesmoke solid 1px;
+    margin: 2em;
+    padding: 1em;
+}
+
+.carousel-img {
+    height: 60%;
+    width: 100%;
+    border: whitesmoke solid 1px;
+    border-radius: 10px;
+    margin: 0.5em 0;
+}
+
+.carousel-btn {
+    margin: 2em auto;
+    border: whitesmoke solid 1px;
+    border-radius: 10px;
+    height: 2em;
+    width: 80%; 
+}
+
+.carousel-btn>a {
+    padding: 0.5em;
+    display: block;
+    color: rgb(235, 74, 154);
+    text-decoration: none;
+}
+
+.carousel-pre-btn, .carousel-next-btn{
+    padding: 0;
+    height:3em;
+    width: 3em;
+    border: none;
+}
+
+.carousel-pre-img, .carousel-next-img {
+    height: 3em;
+    width: 3em;
+    display: inline-block;
+}
+
+.carousel-pre-img {
+    rotate: 180deg;
+}
+
