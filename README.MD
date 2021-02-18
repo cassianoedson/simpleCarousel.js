@@ -1,8 +1,6 @@
 # theCarousel.js
 A simple and very useful carousel of itens made by pure javascript.
 
-![Image of theCarousel](https://github.com/cassianoedson/theCarousel.js/blob/main/img-carousel.PNG)
-
 // - - - Features - - - //
 
 theCarousel.js has two javascript modules: "autoCarousel.js" and "manualCarousel.js". 
@@ -21,3 +19,8 @@ The ideia was make it simple so everyone could not only copy, but truly understa
 // - - - About the Carousel - - - //
 
 It was made in way that you could change all the css and html (except the carousel structure and it's attributes) so you can customize in your on way and you wont be blocked in pre molded designs.
+
+
+// - - - How It Looks - - - //
+
+![Image of theCarousel](https://github.com/cassianoedson/theCarousel.js/blob/main/img-carousel.PNG)
