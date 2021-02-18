@@ -1,9 +1,9 @@
-# theCarousel.js
+# simpleCarousel.js
 A simple and very useful carousel of itens made by pure javascript.
 
 <br/> // - - - Features - - - //
 
-theCarousel.js has two javascript modules: "autoCarousel.js" and "manualCarousel.js". 
+simpleCarousel.js has two javascript modules: "autoCarousel.js" and "manualCarousel.js". 
 - autoCarousel.js:
 <br/> The first script makes the carousel "spin", in other words, it changes the current itens that are beeing displayed. 
 - manualCarousel.js:
@@ -12,7 +12,7 @@ theCarousel.js has two javascript modules: "autoCarousel.js" and "manualCarousel
 
 <br/> // - - - About the Idea - - - //
 
-It was inspired by my frustation of not finding simple carousels that were beginner-friendly or even just tutorials teaching them. So I've come with an ideia for this lacking on the community: "theCarousel.js".
+It was inspired by my frustation of not finding simple carousels that were beginner-friendly or even just tutorials teaching them. So I've come with an ideia for this lacking on the community: "simpleCarousel.js".
 <br/> Actually I am a beginner myself, so if you have useful knowledge please make a note.
 <br/> The ideia was make it simple so everyone could not only copy, but truly understand the concept and afterwards make it on your own.
 
