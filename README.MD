@@ -13,7 +13,7 @@ The other script is about the "manual" part of the code, it is responsible for t
 // - - - About the Idea - - - //
 
 It was inspired by my frustation of not finding simple carousels that were beginner-friendly or even just tutorials teaching them. So I've come with an ideia for this lacking on the community: "theCarousel.js".
-<br> The ideia was make it simple so everyone could not only copy, but truly understand the concept and afterwards make it on your own.
+<br/> The ideia was make it simple so everyone could not only copy, but truly understand the concept and afterwards make it on your own.
 
 
 // - - - About the Carousel - - - //
