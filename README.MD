@@ -12,7 +12,8 @@ theCarousel.js has two javascript modules: "autoCarousel.js" and "manualCarousel
 
 <br/> // - - - About the Idea - - - //
 
-It was inspired by my frustation of not finding simple carousels that were beginner-friendly or even just tutorials teaching them. So I've come with an ideia for this lacking on the community: "theCarousel.js". Actually I am a beginner myself, so if you have useful knowledge please make a note.
+It was inspired by my frustation of not finding simple carousels that were beginner-friendly or even just tutorials teaching them. So I've come with an ideia for this lacking on the community: "theCarousel.js".
+<br/> Actually I am a beginner myself, so if you have useful knowledge please make a note.
 <br/> The ideia was make it simple so everyone could not only copy, but truly understand the concept and afterwards make it on your own.
 
 
