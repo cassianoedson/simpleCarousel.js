@@ -1,11 +1,3 @@
-// select the carousel //
-const carousel = document.querySelectorAll("[data-carousel]");
-
-// select the slides along with their class //
-const slide0 = carousel[0].classList;
-const slide1 = carousel[1].classList;
-const slide2 = carousel[2].classList;
-
 // select the buttons "next" and "previous"//
 const nextBtn = document.querySelector("[data-next-btn]");
 const preBtn = document.querySelector("[data-pre-btn");
@@ -50,8 +42,8 @@ nextBtn.addEventListener ("click", () => {
 // click event of button "previous" // 
 preBtn.addEventListener("click", () => {
 
-  // loop to check which of the slides has the class "show" //
-  // if it's positive the class is removed and add to previous //
+    // loop to check which of the slides has the class "show" //
+    // if it's positive the class is removed and add to previous //
   for (let classe of slide0) {
     if (classe == "show") {
       slide0.remove("show");

@@ -104,3 +104,16 @@ h3 {
     rotate: 180deg;
 }
 
+.checkbox-no, .checkbox-yes {
+    height: 1em;
+    width: 2em;
+    border: whitesmoke solid 1px;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+
+.checkbox-yes {
+    background-color: rgb(235, 74, 154);
+}
+

@@ -1,11 +1,9 @@
-setInterval ( () => {
-    // select the carousel //
-    const carousel = document.querySelectorAll("[data-carousel]");
+// select the slides //
+const slide0 = document.querySelector('[data-carousel="1"]').classList;
+const slide1 = document.querySelector('[data-carousel="2"]').classList;
+const slide2 = document.querySelector('[data-carousel="3"]').classList;
 
-    // select the slides along with their class //
-    const slide0 = carousel[0].classList;
-    const slide1 = carousel[1].classList;
-    const slide2 = carousel[2].classList;
+setInterval ( () => {
 
     // loop to check which of the slides has the class "show" //
     // if it's positive the class is removed and add to next //
