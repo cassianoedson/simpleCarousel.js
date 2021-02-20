@@ -8,6 +8,8 @@ simpleCarousel.js has two javascript modules: "autoCarousel.js" and "manualCarou
 <br/> The first script makes the carousel "spin", in other words, it changes the current itens that are beeing displayed. 
 - manualCarousel.js:
 <br/> The other script is about the "manual" part of the code, it is responsible for the buttons that also change the current display but obviously, they do it manually.
+- checkbox.js:
+<br/> This one adds the checkbox feature to simple Carousel, making better the interectivit and understanding about the carousel's position.
 
 
 <br/> // - - - About the Idea - - - //
