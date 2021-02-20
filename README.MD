@@ -3,7 +3,7 @@ A simple and very useful carousel of itens made by pure javascript.
 
 <br/> // - - - Features - - - //
 
-simpleCarousel.js has only three javascript modules: 
+simpleCarousel.js has only three simple javascript modules: 
 - autoCarousel.js:
 <br/> The first script makes the carousel "spin", in other words, it changes the current itens that are beeing displayed. 
 - manualCarousel.js:
